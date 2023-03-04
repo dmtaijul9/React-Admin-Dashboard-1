@@ -1,5 +1,5 @@
 import { Typography } from "@mui/material";
-import { Box, color, useTheme } from "@mui/system";
+import { Box, useTheme } from "@mui/system";
 import React from "react";
 import { tokens } from "../theme";
 

@@ -52,7 +52,7 @@ export const tokens = (mode) => {
             800: "#58201e",
             900: "#2c100f",
           },
-          indigoAccent: {
+          blueAccent: {
             100: "#e1e2fe",
             200: "#c3c6fd",
             300: "#a4a9fc",
@@ -109,7 +109,7 @@ export const tokens = (mode) => {
             800: "#f1b9b7",
             900: "#f8dcdb",
           },
-          indigoAccent: {
+          blueAccent: {
             100: "#151632",
             200: "#2a2d64",
             300: "#3e4396",
